@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thotrang/deployReactJS.git/static/css/main.073c9b0a.css",
+    "main.js": "/thotrang/deployReactJS.git/static/js/main.f49bbc24.js",
+    "static/js/787.f055211e.chunk.js": "/thotrang/deployReactJS.git/static/js/787.f055211e.chunk.js",
+    "static/media/logo.svg": "/thotrang/deployReactJS.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/thotrang/deployReactJS.git/index.html",
+    "main.073c9b0a.css.map": "/thotrang/deployReactJS.git/static/css/main.073c9b0a.css.map",
+    "main.f49bbc24.js.map": "/thotrang/deployReactJS.git/static/js/main.f49bbc24.js.map",
+    "787.f055211e.chunk.js.map": "/thotrang/deployReactJS.git/static/js/787.f055211e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f49bbc24.js"
+  ]
+}
